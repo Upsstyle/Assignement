@@ -1,0 +1,44 @@
+
+
+
+#scene { 
+    width: 1200px;
+    height: 640px;
+    background-image: url(background.JPG); 
+    background-repeat: no-repeat;
+    margin-left: 150px
+
+}
+div {
+    
+    position: absolute;
+}
+#girl{
+position: absolute;
+width: 71px;
+    height: auto;
+margin-left: 450px;
+margin-top: 435px;}
+
+#flower2 {
+   margin-top: 540px;
+margin-left: 295px;
+    
+}
+
+#flower1 {
+ margin-left: 550px;
+margin-top: 540px;
+    
+}
+
+#train {
+    margin-top: 420px;
+   left: 1200px;
+    display: none
+}
+
+#plane { 
+margin-left: 280px;
+bottom: 650px;
+display: none}
